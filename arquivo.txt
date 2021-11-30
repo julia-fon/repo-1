@@ -1,0 +1,4 @@
+Editando o aquivo para gerar conflitos.
+
+Adicione um novo arquivo e edite o arquivo existente;
+Confira o estado do diretório, e do repositório.
